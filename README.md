@@ -19,3 +19,5 @@ sn{AI}ke code:
 * [SnakesCode_Sketch_v3_5.ipynb](https://github.com/gmarcelo94/sn-AI-ke/blob/main/SnakesCode_Sketch_v3_5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/gmarcelo94/sn-AI-ke/blob/main/SnakesCode_Sketch_v3_5.ipynb)
 
 * [SnakesCode_Sketch_v3_6.ipynb](https://github.com/gmarcelo94/sn-AI-ke/blob/main/SnakesCode_Sketch_v3_6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/gmarcelo94/sn-AI-ke/blob/main/SnakesCode_Sketch_v3_6.ipynb)
+
+* [SnakesCode_Sketch_v3_7.ipynb](https://github.com/gmarcelo94/sn-AI-ke/blob/main/SnakesCode_Sketch_v3_7.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/gmarcelo94/sn-AI-ke/blob/main/SnakesCode_Sketch_v3_7.ipynb)
