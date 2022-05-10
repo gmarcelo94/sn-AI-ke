@@ -1,5 +1,5 @@
-## sn{AI}ke
-Snake Team Sn{AI}ke
+## sn{AI}ke Mobile app
+(python based code) --> (to transfer to TensorFlowLite)
 
 ## Contents
 
