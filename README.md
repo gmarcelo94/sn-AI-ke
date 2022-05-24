@@ -9,3 +9,6 @@ For information on the snakes common and scientific name, as well as dangerousne
 
 sn{AI}ke code:
 * [snAIke_Algorithm__Final_Version.ipynb](https://github.com/gmarcelo94/sn-AI-ke/blob/main/snAIke_Algorithm__Final_Version.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/gmarcelo94/sn-AI-ke/blob/main/snAIke_Algorithm__Final_Version.ipynb)
+
+saved model:
+* [snAIke.h5](https://github.com/gmarcelo94/sn-AI-ke/blob/main/snAIke.h5) 
